@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/lovecalculator-API.git"
   },
   "keywords": [
-    "love calculator"," love calculator api"," love calculator tool"," love calculator software"," love calculator service"," love calculator library"," love calculator sdk"," love calculator code"," love calculator script"," love calculator program"," love calculator application"," love calculator app"," love calculator utility"," love calculator helper"," love calculator helper tool"," love calculator helper software"," love calculator helper service"," love calculator helper library"," love calculator helper sdk"," love calculator helper code"," love calculator helper script"," love calculator helper program"," love calculator helper application"," love calculator helper app"," love calculator helper utility"," love calculator helper"
+    "love calculator","love calculator api","love calculator tool","love calculator software","love calculator service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
