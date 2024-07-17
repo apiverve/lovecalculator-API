@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/lovecalculator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Love Calculator is a simple tool for calculating love compatibility. It returns the love compatibility percentage between two names.",
   "main": "index.js",
   "scripts": {
