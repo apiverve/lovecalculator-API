@@ -77,7 +77,8 @@ api.execute(query, function (error, data) {
     "lovePercentage": "62%",
     "response": "You have good chemistry. Keep getting to know each other and see where it leads.",
     "additionalText": "The love percentage between Jane and John is 62%."
-  }
+  },
+  "code": 200
 }
 ```
 
